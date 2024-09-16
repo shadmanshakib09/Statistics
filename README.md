@@ -1,2 +1,2 @@
 # Statistics
-Statistics is an important section to learn Machine Learning. It is in the core of nearly all Machine Learning models. 
+Statistics is a fundamental section for learning Machine Learning, forming the core of nearly all Machine Learning models. 
